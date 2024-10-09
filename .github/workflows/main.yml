@@ -15,7 +15,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: ftp.samkirkland.com
+        server: ftp.technologywisdom.com
         username: technowu3
         password: ${{ Ym3^s$a5@5@5^R7qS9A@ei }}
         server-dir: public_html/dev/temp/
