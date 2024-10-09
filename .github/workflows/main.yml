@@ -17,5 +17,5 @@ jobs:
       with:
         server: ftp.technologywisdom.com
         username: technowu3
-        password: ${{ Ym3^s$a5@5@5^R7qS9A@ei }}
-        server-dir: public_html/dev/temp/
+        password: Ym3^s$a5@5@5^R7qS9A@ei
+        server-dir: /public_html/dev/temp/
